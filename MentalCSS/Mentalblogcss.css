@@ -11,7 +11,7 @@ body{
     background-color:white;
 }
 h1.top{
-    color:rgb(157, 35, 74);
+    color:rgb(91, 42, 227);
     float:left;
     margin:auto;
     height:55px;
@@ -21,19 +21,19 @@ h1.top{
     text-decoration: underline;
 }
 button{
-    background-color:rgb(157, 35, 74);
+    background-color:rgb(91, 42, 227);
     font-weight:bolder;
     color:white;
     border-radius: 10px;
     height:50px;
     width:13%;
     font-size: medium;
-    border-color: rgb(157, 35, 74);
+    border-color: rgb(91, 42, 227);
 }
 div.b{
     height:90%;
     width:17%;
-    background-color: rgb(157, 35, 74);
+    background-color: rgb(91, 42, 227);
     float:right;
 }
 a{
@@ -61,7 +61,7 @@ div.d{
     height:30%;
     width:80%;
     float:left;
-    background-color:rgb(157, 35, 74)
+    background-color:rgb(91, 42, 227);
 }
 a.aa{
     font-size: small;
@@ -76,5 +76,5 @@ div.ddd{
     height:50%;
     width:80%;
     float:left;
-    background-color:rgb(157, 35, 74)
+    background-color:rgb(91, 42, 227);
 }
