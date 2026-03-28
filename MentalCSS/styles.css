@@ -11,7 +11,7 @@ body{
     background-color:white;
 }
 h1.top{
-    color:rgb(157, 35, 74);
+    color:rgb(65, 255, 168);
     float:left;
     margin:auto;
     height:55px;
@@ -21,19 +21,19 @@ h1.top{
     text-decoration: underline;
 }
 button{
-    background-color:rgb(157, 35, 74);
+    background-color:rgb(65, 255, 168);
     font-weight:bolder;
     color:white;
     border-radius: 10px;
     height:50px;
     width:13%;
     font-size: medium;
-    border-color: rgb(157, 35, 74);
+    border-color: rgb(65, 255, 168);
 }
 div.b{
     height:90%;
     width:17%;
-    background-color: rgb(157, 35, 74);
+    background-color: rgb(65, 255, 168);
     float:right;
 }
 a{
@@ -71,7 +71,7 @@ div.e{
     height:10%;
     width:40%;
     color:white;
-    background-color:rgb(157, 35, 74);
+    background-color:rgb(65, 255, 168);
     text-align: center;
     border: dotted black;
     text-decoration: underline;
@@ -81,7 +81,7 @@ div.f{
     height:10%;
     width:40%;
     color:white;
-    background-color:rgb(157, 35, 74);
+    background-color:rgb(65, 255, 168);
     text-align: center;
     border: dotted black;
     font-weight: bold; 
@@ -91,6 +91,6 @@ div.space{
     height:2%;
     width:10%;
     color:white;
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(65, 255, 168);
     font-size: xx-small;
 }
